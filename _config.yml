@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Mark Fulton"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I Like to write code, /nmainly in meetings talking, /n Its snowing at Mt Fugi"
+  bio    : "I Like to write code, \nmainly in meetings talking, \n Its snowing at Mt Fugi"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
