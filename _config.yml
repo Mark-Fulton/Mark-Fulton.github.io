@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mark Fulton
+title: Thinking Mobile
 email: mark@markulton.dev
 description: >- # this means to ignore newlines until "baseurl:"
   I Like to write code, mainly in meetings though.
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Mark Fulton"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/mark.jpg"
   bio    : "I Like to write code, \nmainly in meetings talking, \n Its snowing at Mt Fugi"
   links:
     - label: "Website"
@@ -75,12 +75,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Mark-Fulton"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
