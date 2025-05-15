@@ -1,7 +1,7 @@
 ---
 title: "Until tech debt do us part"
 categories:
-  - Blog
+  - Coding
 tags:
   - Programming
   - Android

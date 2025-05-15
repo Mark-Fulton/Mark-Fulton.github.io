@@ -1,7 +1,7 @@
 ---
 title: "When to break the rules"
 categories:
-  - Blog
+  - Coding
 tags:
   - Programming
   - Android

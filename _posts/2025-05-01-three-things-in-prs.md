@@ -1,7 +1,7 @@
 ---
 title: "Three things to look for reviewing code"
 categories:
-  - Blog
+  - Coding
 tags:
   - Programming
   - Android

@@ -1,7 +1,7 @@
 ---
 title: "Do you have a Target State Architecture?"
 categories:
-  - Blog
+  - Architecture
 tags:
   - Programming
   - Android

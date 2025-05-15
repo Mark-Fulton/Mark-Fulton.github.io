@@ -1,7 +1,7 @@
 ---
 title: "All technical debt is not equal"
 categories:
-  - Blog
+  - Coding
 tags:
   - Tech Debt
   - Planning
